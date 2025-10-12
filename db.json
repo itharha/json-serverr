@@ -1,122 +1,36 @@
 {
   "books": [
     {
-      "id": "1",
-      "title": "The Art of Clean Code",
-      "author": "Robert C. Martin",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Chicago, USA",
-      "birthplace": "Toronto, Canada",
-      "publishedDate": "2008-08-01",
-      "summary": "This book teaches principles and best practices for writing clean, maintainable code."
+      "id": 1,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "img": "https://m.media-amazon.com/images/I/71FTb9XHfhL.jpg"
     },
     {
-      "id": "3",
-      "title": "You Don’t Know JavaScript",
-      "author": "Kyle Simpson",
-      "img": "https://m.media-amazon.com/images/I/71kPW3SLQSL.jpg",
-      "address": "Texas, USA",
-      "birthplace": "California, USA",
-      "publishedDate": "2014-12-27",
-      "summary": "A deep dive into the core mechanisms of JavaScript, ideal for developers who want mastery."
+      "id": 2,
+      "title": "1984",
+      "author": "George Orwell",
+      "img": "https://m.media-amazon.com/images/I/81Y5WuARqpL.jpg"
     },
     {
-      "id": "4",
-      "title": "Mystery of the Night",
-      "author": "Jane Doe",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Paris, France",
-      "birthplace": "Madrid, Spain",
-      "publishedDate": "2010-05-14",
-      "summary": "A thrilling mystery novel that explores secrets hidden in the shadows of the night."
+      "id": 3,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "img": "https://m.media-amazon.com/images/I/81OtwkiBzzL.jpg"
     },
     {
-      "id": "5",
-      "title": "Journey to Canada",
-      "author": "Alex Jon",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Vancouver, Canada",
-      "birthplace": "Ottawa, Canada",
-      "publishedDate": "2018-03-09",
-      "summary": "An inspiring travel memoir describing the beauty and cultural richness of Canada."
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "img": "https://m.media-amazon.com/images/I/81XJl5A1fxL.jpg"
     },
     {
-      "id": "6",
-      "title": "Paris Tales",
-      "author": "James Bor",
-      "img":"https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Paris, France",
-      "birthplace": "Berlin, Germany",
-      "publishedDate": "2015-11-22",
-      "summary": "A collection of short stories set in Paris, showcasing romance, art, and hidden corners."
-    },
-    {
-      "id": "7",
-      "title": "The Hidden Secret",
-      "author": "Paul White",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Sydney, Australia",
-      "birthplace": "Melbourne, Australia",
-      "publishedDate": "2012-07-18",
-      "summary": "A suspenseful story unraveling hidden truths buried deep within human relationships."
-    },
-    {
-      "id": "8",
-      "title": "Digital Horizons",
-      "author": "Cody Board",
-      "img":"https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "San Francisco, USA",
-      "birthplace": "Boston, USA",
-      "publishedDate": "2021-09-05",
-      "summary": "Explores the future of technology and its impact on society and human connection."
-    },
-    {
-      "id": "9",
-      "title": "Timeless Adventures",
-      "author": "Tim Alex",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Rome, Italy",
-      "birthplace": "Athens, Greece",
-      "publishedDate": "2006-02-11",
-      "summary": "An epic tale of timeless journeys across ancient civilizations and forgotten worlds."
-    },
-    {
-      "id": "10",
-      "title": "Tech Innovations",
-      "author": "Techrix Team",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Tokyo, Japan",
-      "birthplace": "Osaka, Japan",
-      "publishedDate": "2022-04-30",
-      "summary": "A comprehensive overview of recent technological breakthroughs and future trends."
-    },
-    {
-      "id": "12",
-      "title": "Love bride",
-      "author": "Axes Gan",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "Vienna, Austria",
-      "birthplace": "Prague, Czech Republic",
-      "publishedDate": "2019-12-15",
-      "summary": "A romantic story that unfolds between two souls destined to meet against all odds."
-    },
-    {
-      "id": "d78c",
-      "title": "ithaarr",
-      "author": "magic of the moon",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-        "address": "",
-      "publishedDate": "",
-      "summary": ""
-    },
-    {
-      "id": "6b95",
-      "title": "",
-      "author": "",
-      "img": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
-      "address": "",
-      "publishedDate": "",
-      "summary": ""
+      "id": 5,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "img": "https://m.media-amazon.com/images/I/91MV5wU7pUL.jpg"
     }
   ]
 }
+
+
