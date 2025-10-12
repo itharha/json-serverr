@@ -2,33 +2,33 @@
   "books": [
     {
       "id": 1,
-      "title": "The Great Gatsby",
-      "author": "F. Scott Fitzgerald",
-      "img": "https://m.media-amazon.com/images/I/71FTb9XHfhL.jpg"
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "img": "https://m.media-amazon.com/images/I/713jIoMO3UL.jpg"
     },
     {
       "id": 2,
-      "title": "1984",
-      "author": "George Orwell",
-      "img": "https://m.media-amazon.com/images/I/81Y5WuARqpL.jpg"
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "img": "https://m.media-amazon.com/images/I/71aFt4+OTOL.jpg"
     },
     {
       "id": 3,
-      "title": "To Kill a Mockingbird",
-      "author": "Harper Lee",
-      "img": "https://m.media-amazon.com/images/I/81OtwkiBzzL.jpg"
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "img": "https://m.media-amazon.com/images/I/81bGKUa1e0L.jpg"
     },
     {
       "id": 4,
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "img": "https://m.media-amazon.com/images/I/81XJl5A1fxL.jpg"
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "img": "https://m.media-amazon.com/images/I/91b0C2YNSrL.jpg"
     },
     {
       "id": 5,
-      "title": "Moby Dick",
-      "author": "Herman Melville",
-      "img": "https://m.media-amazon.com/images/I/91MV5wU7pUL.jpg"
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "img": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
     }
   ]
 }
