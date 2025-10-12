@@ -29,6 +29,66 @@
       "title": "The Catcher in the Rye",
       "author": "J.D. Salinger",
       "img": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "author": "Mark Manson",
+      "img": "https://m.media-amazon.com/images/I/71QKQ9mwV7L.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "img": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "img": "https://m.media-amazon.com/images/I/91dSMhdIzTL.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "img": "https://m.media-amazon.com/images/I/81GqtNbs+PL.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "img": "https://m.media-amazon.com/images/I/71UypkUjStL.jpg"
+    },
+    {
+      "id": 11,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "img": "https://m.media-amazon.com/images/I/81OthjkJBuL.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "img": "https://m.media-amazon.com/images/I/91VokXkn8hL.jpg"
+    },
+    {
+      "id": 13,
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "img": "https://m.media-amazon.com/images/I/71UwSHSZRnS.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "img": "https://m.media-amazon.com/images/I/71g2ednj0JL.jpg"
+    },
+    {
+      "id": 15,
+      "title": "The Four Agreements",
+      "author": "Don Miguel Ruiz",
+      "img": "https://m.media-amazon.com/images/I/71pK9aN7RGL.jpg"
     }
   ]
 }
